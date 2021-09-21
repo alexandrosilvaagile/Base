@@ -15,3 +15,4 @@
 ## Dependencias :
 
 ## Versão framework :
+  - .Net Core 5
